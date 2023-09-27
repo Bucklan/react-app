@@ -1,0 +1,10 @@
+.nav {
+    grid-area: navbar;
+    background-color: burlywood;
+}
+.item a{
+    color: black;
+}
+.item a:hover{
+    color: white;
+}
